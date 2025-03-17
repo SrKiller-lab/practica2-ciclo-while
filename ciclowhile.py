@@ -1,4 +1,4 @@
-cont_corr = "TRUENOGOD"
+cont_corr = "quepasachaval"
 
 while True:
     for i in range(5):
